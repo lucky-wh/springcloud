@@ -1,0 +1,10 @@
+# Project exclude paths
+/clond-consumer-feign-order80/target/
+/clond-consumer-hystrix-payment8001/target/
+/cloud-api-commons/target/
+/cloud-consumer-feign-hystrix-order80/target/
+/cloud-consumer-order80/target/
+/cloud-eureka-server7001/target/
+/cloud-eureka-server7002/target/
+/cloud-provider-payment8001/target/
+/cloud-provider-payment8002/target/
