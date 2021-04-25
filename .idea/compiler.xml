@@ -14,6 +14,7 @@
         <module name="cloud-consumer-feign-hystrix-order80" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
         <module name="cloud-config-center-3344" />
+        <module name="cloud-alibaba-provider-payment9002" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-alibaba-provider-payment9001" />
         <module name="cloud-consumer-hystrix-payment8001" />
@@ -24,6 +25,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-alibaba-provider-payment9001" target="8" />
+      <module name="cloud-alibaba-provider-payment9002" target="8" />
       <module name="cloud-api-commons" target="8" />
       <module name="cloud-config-center-3344" target="8" />
       <module name="cloud-config-client-3355" target="8" />
