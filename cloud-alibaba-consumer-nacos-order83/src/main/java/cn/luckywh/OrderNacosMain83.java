@@ -5,15 +5,16 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
- * nacos的主启动类
+ * 消费者注册进nacos主启动类
  *
  * @author W.
- * @date 2021/4/25 17:47
+ * @date 2021/4/25 18:03
  */
+
 @SpringBootApplication
 @EnableDiscoveryClient
-public class PaymentMain9002 {
+public class OrderNacosMain83 {
     public static void main(String[] args) {
-        SpringApplication.run(PaymentMain9002.class,args);
+        SpringApplication.run(OrderNacosMain83.class,args);
     }
 }

@@ -8,3 +8,31 @@
 /cloud-eureka-server7002/target/
 /cloud-provider-payment8001/target/
 /cloud-provider-payment8002/target/
+
+#过滤不需要提交git的文件
+/target/
+*/target/
+!.mvn/wrapper/maven-wrapper.jar
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.idea/workspace.xml
+.idea/*
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
