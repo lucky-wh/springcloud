@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/cloud-alibaba-config-nacos-client3377.iml" filepath="$PROJECT_DIR$/cloud-alibaba-config-nacos-client3377/cloud-alibaba-config-nacos-client3377.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/cloud-alibaba-consumer-nacos-order83.iml" filepath="$PROJECT_DIR$/cloud-alibaba-consumer-nacos-order83/cloud-alibaba-consumer-nacos-order83.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-provider-payment9001/cloud-alibaba-provider-payment9001.iml" filepath="$PROJECT_DIR$/cloud-alibaba-provider-payment9001/cloud-alibaba-provider-payment9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-alibaba-provider-payment9002/cloud-alibaba-provider-payment9002.iml" filepath="$PROJECT_DIR$/cloud-alibaba-provider-payment9002/cloud-alibaba-provider-payment9002.iml" />
