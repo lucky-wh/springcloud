@@ -11,4 +11,5 @@ spring:
       config:
         server-addr: 10.1.12.14:8848 #Nacos作为配置中心地址（本机的写localhost）
         file-extension: yml #指定yml格式配置
-        group: TEST_GROUP
+#        group: DEV_GROUP   会报错，未解决
+        namespace: fc5be769-1b8e-46b7-8a5c-295fbc1b99b1 #命名空间id
